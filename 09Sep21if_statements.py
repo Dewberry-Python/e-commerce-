@@ -1,5 +1,5 @@
 Play1= 44
-Play2= 49
+Play2= 68
 
 if Play1 > Play2:
     print("The first number is greater than the second number")
