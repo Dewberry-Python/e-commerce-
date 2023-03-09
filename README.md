@@ -14,9 +14,10 @@ pip freeze > requirements.txt
 
 ecommerce/Scripts/Activate.ps1
 
- **then**
- cd muby
  **make sure the the text changes to color and enclosed in brackets "(ecommerce)"**
+
+ cd muby
+**then**
 
 python manage.py runserver 
   
